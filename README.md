@@ -1,4 +1,4 @@
-                                                        I am trying to Figure-Out Stuff!
+                                          I am trying to Figure-Out Stuff!
 - 👋 Hi, I’m @Jayesh2024
 - 📫 How to reach me Connect With Me on Linkedin
 - 🌱 I’m currently learning JAVA
