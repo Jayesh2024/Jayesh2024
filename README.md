@@ -1,5 +1,5 @@
-                                          I am trying to Figure-Out Stuff!
-- 👋 Hi, I’m @Jayesh2024
+                                          Hi 👋, I'm Jayesh Savle
+
 - 📫 How to reach me Connect With Me on Linkedin
 - 🌱 I’m currently learning JAVA
 - 💬 Ask me about... Anything
